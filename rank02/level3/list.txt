@@ -1,0 +1,19 @@
+MATHS
+lcm (OK)
+pgcd (OK)
+tab_mult (OK)
+
+OTHER
+paramsum (OK)
+ft_range (OK)
+ft_rrange (OK)
+ft_atoi_base (OK)
+print_hex (OK)
+lt_list_size (OK)
+
+STRINGS
+epur_str (OK)
+expand_str (OK)
+hidenp (OK)
+rstr_capitalizer (OK)
+str_capitalizer (OK)
